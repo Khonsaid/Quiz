@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level1text0">Ноль</string>
+    <string name="level1text1">Один</string>
+    <string name="level1text2">Два</string>
+    <string name="level1text3">Три</string>
+    <string name="level1text4">Четыре</string>
+    <string name="level1text5">Пять</string>
+    <string name="level1text6">Шесть</string>
+    <string name="level1text7">Семь</string>
+    <string name="level1text8">Восемь</string>
+    <string name="level1text9">Девять</string>
+
+    <string name="level2text1">I</string>
+    <string name="level2text2">II</string>
+    <string name="level2text3">III</string>
+    <string name="level2text4">IV</string>
+    <string name="level2text5">V</string>
+    <string name="level2text6">VI</string>
+    <string name="level2text7">VII</string>
+    <string name="level2text8">VIII</string>
+    <string name="level2text9">IX</string>
+    <string name="level2text10">X</string>
+
+    <string name="level3text1">Шимма</string>
+    <string name="level3text2">Шейла</string>
+    <string name="level3text3">Кассиопея</string>
+    <string name="level3text4">Гризабелла</string>
+    <string name="level3text5">Шива</string>
+    <string name="level3text6">Юнесса</string>
+    <string name="level3text7">Василиса</string>
+    <string name="level3text8">Изольда</string>
+    <string name="level3text9">Няшка</string>
+    <string name="level3text10">Сгущенка</string>
+    <string name="level3text11">Эмир</string>
+    <string name="level3text12">Анда</string>
+    <string name="level3text13">Одиссей</string>
+    <string name="level3text14">Харли</string>
+    <string name="level3text15">Рокси</string>
+    <string name="level3text16">Чарли</string>
+    <string name="level3text17">Марли</string>
+    <string name="level3text18">Элис</string>
+    <string name="level3text19">Мейбел</string>
+    <string name="level3text20">Олли</string>
+    <string name="level3text21">Оccи</string>
+
+    <string name="level4text1">Морковь</string>
+    <string name="level4text2">Рюкзак</string>
+    <string name="level4text3">Дыня</string>
+    <string name="level4text4">Боулинг</string>
+    <string name="level4text5">Арбуз</string>
+    <string name="level4text6">Ракетка </string>
+    <string name="level4text7">Лук</string>
+    <string name="level4text8">Коробка</string>
+    <string name="level4text9">Зелёный лук</string>
+    <string name="level4text10">Кепка</string>
+    <string name="level4text11">Яблоко</string>
+    <string name="level4text12">Автомобильная шина</string>
+    <string name="level4text13">Орех</string>
+    <string name="level4text14">Книга</string>
+    <string name="level4text15">Яйца</string>
+    <string name="level4text16">Туфля</string>
+    <string name="level4text17">Кокос</string>
+    <string name="level4text18">Каска</string>
+    <string name="level4text19">Капуста</string>
+    <string name="level4text20">Клубок</string>
+</resources>
